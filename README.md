@@ -1,4 +1,4 @@
-# AVR Atmega8 Mini Devlopment Board
+# AVR ATmega8 Mini Devlopment Board
 
 The PCB of this board is designed with KiCad V5 
 
